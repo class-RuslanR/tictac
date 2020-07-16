@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/C++/IT_Academy/Homeworks/HW6(TicTac)/TicTacToe_code/board.cpp
+board.h
+F:/C++/IT_Academy/Homeworks/HW6(TicTac)/TicTacToe_code/board.h
+iostream
+-
+
+F:/C++/IT_Academy/Homeworks/HW6(TicTac)/TicTacToe_code/board.h
+
+F:/C++/IT_Academy/Homeworks/HW6(TicTac)/TicTacToe_code/game.cpp
+game.h
+F:/C++/IT_Academy/Homeworks/HW6(TicTac)/TicTacToe_code/game.h
+board.h
+F:/C++/IT_Academy/Homeworks/HW6(TicTac)/TicTacToe_code/board.h
+iostream
+-
+
+F:/C++/IT_Academy/Homeworks/HW6(TicTac)/TicTacToe_code/game.h
+board.h
+F:/C++/IT_Academy/Homeworks/HW6(TicTac)/TicTacToe_code/board.h
+
+F:/C++/IT_Academy/Homeworks/HW6(TicTac)/TicTacToe_code/main.cpp
+iostream
+-
+board.h
+F:/C++/IT_Academy/Homeworks/HW6(TicTac)/TicTacToe_code/board.h
+game.h
+F:/C++/IT_Academy/Homeworks/HW6(TicTac)/TicTacToe_code/game.h
+

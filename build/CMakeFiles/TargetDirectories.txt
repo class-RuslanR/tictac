@@ -1,0 +1,3 @@
+F:/C++/IT_Academy/Homeworks/HW6(TicTac)/TicTacToe_code/build/CMakeFiles/TicTac.dir
+F:/C++/IT_Academy/Homeworks/HW6(TicTac)/TicTacToe_code/build/CMakeFiles/edit_cache.dir
+F:/C++/IT_Academy/Homeworks/HW6(TicTac)/TicTacToe_code/build/CMakeFiles/rebuild_cache.dir
