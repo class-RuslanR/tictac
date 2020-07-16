@@ -1,5 +1,7 @@
 # folder debug
 debug/
+#folder build
+build/
 *.sln
 *.vcxproj
 *.vcxproj.filters
